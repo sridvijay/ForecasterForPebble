@@ -1,0 +1,8 @@
+argv = ['/Users/dev/pebble-dev/PebbleSDK-2.0-BETA3/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'F076658B-2855-475C-B81C-51C6C75C6C44', 'SSH_AUTH_SOCK': '/tmp/launch-U7ghS5/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'dev', 'USER': 'dev', 'HOME': '/Users/dev', 'PATH': '/Users/dev/pebble-dev/PebbleSDK-2.0-BETA3/arm-cs-tools/bin:/Users/dev/pebble-dev/PebbleSDK-2.0-BETA3/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin', 'DISPLAY': '/tmp/launch-43dl8S/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/cc/p8cnws6d6nggdkt_qfpnt9pr0000gs/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-CpsHZU/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x1F9:0:0', 'PWD': '/Users/dev/Weather', '_': '/Users/dev/pebble-dev/PebbleSDK-2.0-BETA3/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/dev/Weather/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/dev/Weather/build'
+run_dir = '/Users/dev/Weather'
+top_dir = '/Users/dev/Weather'

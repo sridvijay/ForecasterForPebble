@@ -1,0 +1,71 @@
+{
+  "uuid": "28AF3DC7-E40D-490F-BEF2-29548C8B0600",
+  "shortName": "Forecaster",
+  "longName": "Forecaster",
+  "companyName": "Augment Apps",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_SUN",
+        "file": "img/SunT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_RAIN",
+        "file": "img/RainT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_THUNDER",
+        "file": "img/ThunderstormT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SNOW",
+        "file": "img/Moderate_SnowT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_FOG",
+        "file": "img/Fog1T.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_WIND",
+        "file": "img/windT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CLWIND",
+        "file": "img/cloudwindT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICE",
+        "file": "img/icyT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_STRM",
+        "file": "img/tornadoT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CLOUD",
+        "file": "img/OvercastT.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_PRTCLD",
+        "file": "img/Partly_SunnyT.png"
+      }
+    ]
+  }
+}
